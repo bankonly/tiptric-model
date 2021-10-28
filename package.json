@@ -1,19 +1,19 @@
 {
-    "name": "starter-model-mongo",
-    "version": "1.0.33",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/bankonly/Starter-Model-Mongo.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/bankonly/Starter-Model-Mongo/issues"
-    },
-    "homepage": "https://github.com/bankonly/Starter-Model-Mongo#readme"
+  "name": "starter-model-mongo",
+  "version": "1.0.33",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bankonly/Starter-Model-Mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bankonly/Starter-Model-Mongo/issues"
+  },
+  "homepage": "https://github.com/bankonly/Starter-Model-Mongo#readme",
+  "description": ""
 }
