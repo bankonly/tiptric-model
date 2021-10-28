@@ -1,5 +1,5 @@
 {
-    "name": "starter-model",
+    "name": "starter-model-mongo",
     "version": "1.0.33",
     "description": "",
     "main": "index.js",
