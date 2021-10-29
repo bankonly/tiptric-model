@@ -1,6 +1,6 @@
 {
-  "name": "node-pps",
-  "version": "1.0.34",
+  "name": "starter-model-mongo",
+  "version": "1.0.33",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
